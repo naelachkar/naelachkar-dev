@@ -1,0 +1,9 @@
+.hello {
+  flex-grow: 1;
+  place-self: center;
+  min-height: calc(95dvh - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: calc(5dvh - 0.5rem);
+}

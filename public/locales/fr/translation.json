@@ -1,5 +1,8 @@
 {
+  "contact": "Contact",
   "hello": "Bonjour 👋",
+  "home": "Accueil",
   "my name is": "Je m'appelle",
-  "Naël Achkar": "Naël Achkar"
+  "Naël Achkar": "Naël Achkar",
+  "projects": "Projets"
 }

@@ -1,16 +1,12 @@
-import { useTranslation } from "react-i18next";
 import "./App.css";
+import Hello from "./components/Hello/Hello";
+import NavBar from "./components/NavBar/NavBar";
 
 export default function App() {
-  const { t } = useTranslation();
-
   return (
     <div className="App">
-      <h1>{t("hello")}</h1>
-      <h1>
-        {t("my name is")}{" "}
-        <span className="h1-gradient">{t("Naël Achkar")}</span>.
-      </h1>
+      <NavBar />
+      <Hello />
     </div>
   );
 }

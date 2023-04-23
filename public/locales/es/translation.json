@@ -4,5 +4,9 @@
   "home": "Inicio",
   "my name is": "Me llamo",
   "Naël Achkar": "Naël Achkar",
-  "projects": "Proyectos"
+  "projects": "Proyectos",
+  "about me": "Sobre mí",
+  "bio p1": "Soy un desarrollador web muy motivado con pasión por crear sitios web y aplicaciones elegantes y fáciles de usar. Recientemente completé un programa intensivo de 4 meses en desarrollo web, donde adquirí habilidades en tecnologías front-end y back-end como React, NodeJS, SQL y MongoDB. También tengo experiencia en API REST, pruebas unitarias y Git.",
+  "bio p2": "Antes de dedicarme al desarrollo web, terminé un máster en traducción, donde perfeccioné mi atención al detalle y mis habilidades de gestión de proyectos. También tengo experiencia como traductora y analista de datos lingüísticos en TransPerfect y como traductor autónomo, traduciendo entre francés, inglés, portugués, español y gallego utilizando SDL Trados y MemoQ.",
+  "bio p3": "Con mi conjunto de habilidades diversas y la pasión por la creación de aplicaciones web intuitivas y sensibles, estoy ansioso por explorar nuevas oportunidades en el desarrollo web."
 }

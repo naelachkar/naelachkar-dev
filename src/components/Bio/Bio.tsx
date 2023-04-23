@@ -5,11 +5,11 @@ export default function Bio() {
   const { t } = useTranslation();
   return (
     <section className={styles.bioContainer}>
-      <h2>{t("about me")}</h2>
+      <h2 className={styles.h2}>{t("about me")}</h2>
       <div className={styles.bio}>
-        <p>{t("bio p1")}</p>
-        <p>{t("bio p2")}</p>
-        <p>{t("bio p3")}</p>
+        <p className={styles.paragraph}>{t("bio p1")}</p>
+        <p className={styles.paragraph}>{t("bio p2")}</p>
+        <p className={styles.paragraph}>{t("bio p3")}</p>
       </div>
     </section>
   );

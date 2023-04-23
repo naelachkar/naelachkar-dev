@@ -4,5 +4,9 @@
   "home": "Home",
   "my name is": "My name is",
   "Naël Achkar": "Naël Achkar",
-  "projects": "Projects"
+  "projects": "Projects",
+  "about me": "About me",
+  "bio p1": "I am a highly motivated web developer with a passion for creating elegant, user-friendly websites and applications. I recently completed an intensive 4-month bootcamp programme in web development, where I gained skills in front-end and back-end technologies such as React, NodeJS, SQL, and MongoDB. I am also experienced in REST APIs, unit testing, and Git.",
+  "bio p2": "Prior to my career in web development, I completed my MA in Translation, where I honed my attention to detail and project management skills. I also have experience working as a translator and language data analyst at TransPerfect and as a freelance translator, translating between French, English, Portuguese, Galician, and Spanish using SDL Trados and MemoQ.",
+  "bio p3": "With my diverse skill set and passion for creating intuitive, responsive web applications, I am excited to explore new opportunities in web development."
 }

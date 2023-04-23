@@ -1,0 +1,12 @@
+.bioContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+}
+
+.bio {
+  max-inline-size: 66ch;
+  text-align: justify;
+}
